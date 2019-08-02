@@ -1,0 +1,25 @@
+.jumbotron{background-image: url(../img/images.jpg);background-repeat: no-repeat; background-size: cover; background-position:center;}
+.jumbotron p, h1{color:white; font-family: 'Lato', sans-serif;}
+.card img{max-height: 300px}
+.container-fluid {margin-bottom: 50px}
+.carousel img{max-height: 40em}
+.carousel p{font-size: 2em;  text-shadow: 2px 2px #000000}
+.jefe {width: 10vw;margin-left: 25%; margin-bottom: 5%; margin-top: 5%}
+#carouselExampleCaptions {margin-bottom: 2vw; border-radius: 2vw}
+.who {font-size: 1vw}
+.section-intro {color: black;
+    font-weight: 250;
+    position: relative;
+    margin-top: 3em;
+    margin-right:5em;
+    margin-left: 3em;
+    text-align: center;
+    }
+.introp{
+    text-align: center;
+    line-height: 1.3em;
+    font-size: 1.8em;
+    margin-top: 1em;
+    margin-right: 4em;
+    margin-left: 3em;
+}
